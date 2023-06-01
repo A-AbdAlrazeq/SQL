@@ -1,2 +1,2 @@
 # SQL
-ERD Assignments
+ERD Assignments&Queries
